@@ -78,3 +78,20 @@ html {
     display: block;
     width: 150px;
 }
+.port-img {
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: auto;
+    justify-content: center;
+}
+
+.port-items-kit {
+    display: inline;
+    margin: 10px;
+    width: 20%;
+}
+
+.port-items-kit>img {
+    width: 100%;
+}
