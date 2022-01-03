@@ -65,3 +65,16 @@ html {
     margin: auto;
 }
 
+.img-items-kit>img {
+    width: 40px
+}
+
+.img-items-kit>p {
+    font-size: small;
+    white-space: nowrap;
+}
+
+.img-items-kit {
+    display: block;
+    width: 150px;
+}
