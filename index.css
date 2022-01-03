@@ -163,3 +163,15 @@ html {
 .wordings{
     text-align: center;
 }
+.design{
+    font-weight: normal;
+    display: none;
+}
+.dev{
+  font-weight: normal;
+  display: none;
+}
+.mangt{
+  font-weight: normal;
+  display: none;
+}
