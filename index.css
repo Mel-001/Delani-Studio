@@ -149,3 +149,14 @@ html {
     font-weight: bold;
     color: white;
   }
+  .footer{
+    margin-bottom: 3%; 
+}
+
+.footer-container{
+    flex-direction: row;
+    margin: auto;
+    text-align: center;
+    padding-top: 2%;
+    margin-bottom: 2%;
+}
