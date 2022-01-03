@@ -95,3 +95,42 @@ html {
 .port-items-kit>img {
     width: 100%;
 }
+.contact-us {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    text-align: center;
+    background-image: url(delani1.jpg);
+    height: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 3%;
+}
+
+.contact-container{
+    margin: auto;
+    width: 100%;
+}
+
+.contact-container > h1 {
+    color: #fff;
+}
+
+.contact-form{
+    width: 70%;
+    margin: auto;
+}
+
+.f-group{
+    display: flex;
+}
+
+.f-group > input, textarea{
+    padding: 1%;
+    color: #fff;
+    margin: 1%;
+    background-color: transparent;
+    border: 1px solid white;
+    width: -webkit-fill-available;
+}
